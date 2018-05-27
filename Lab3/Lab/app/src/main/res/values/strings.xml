@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shchepetsLab1</string>
+    <string name="task_label">В 12-поверховому будинку є ліфт. На першому поверсі живе всього 2 людей, від поверху до поверху кількість мешканців збільшується вдвічі. На якому поверсі в цьому будинку частіше інших натискається кнопка виклику ліфта?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
